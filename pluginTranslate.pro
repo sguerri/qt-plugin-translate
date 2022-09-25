@@ -5,7 +5,7 @@ TEMPLATE = lib
 CONFIG += staticlib
 CONFIG += c++17
 
-VERSION = 0.0.3
+VERSION = 0.0.4
 
 # You can make your code fail to compile if it uses deprecated APIs.
 # In order to do so, uncomment the following line.
